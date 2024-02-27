@@ -5,8 +5,8 @@
       "default": true
     }
   ],
-  "name": "df23-lab-demo",
+  "name": "tdx24-lab-demo",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "59.0"
+  "sourceApiVersion": "60.0"
 }

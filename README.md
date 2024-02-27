@@ -1,4 +1,4 @@
-# DF23 Lightning App Builder Demo Reset
+# TDX24 Lightning App Builder Demo Reset
 
 ## Installation
 
@@ -6,7 +6,7 @@
 
 2. Authenticate the Salesforce CLI with the demo org by running this command in a terminal:
     ```sh
-    sf auth web login -s -a df23-lab-demo
+    sf auth web login -s -a tdx24-lab-demo
     ```
 
 Configure macOS to open the reset script with the mouse:
