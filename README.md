@@ -6,7 +6,7 @@
 
 2. Authenticate the Salesforce CLI with the demo org by running this command in a terminal:
     ```sh
-    sf auth web login -s -a df24-lab-demo
+    sf org web login -s -a df24-lab-demo -r  https://trialorgfarmforu-23b.test8.my.pc-rnd.salesforce.com
     ```
 
 Configure macOS to open the reset script with the mouse:
